@@ -1,0 +1,24 @@
+.header-component {
+    width: 100vw;
+    height: 12vw;
+    background-color: goldenrod;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    position: relative;
+    left: 2.5vw;
+}
+
+img {
+    width: 8vw;
+    height: 5vh;
+}
+
+.search {
+    position: relative;
+    right: 2.5vw;
+}
