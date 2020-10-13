@@ -1,0 +1,45 @@
+.slider {
+    height: 320px;
+}
+
+div.carousel-caption {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+ol.carousel-indicators li {
+    width: 100vw;
+    height: 0.5vh;
+    border-top-left-radius: 11px;
+    border-bottom-left-radius: 11px;
+    border-top-right-radius: 11px;
+    border-bottom-right-radius: 11px;
+}
+
+.featured-component h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    padding: 0;
+    margin-bottom: 5px;
+}
+
+.featured-component p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    font-style: italic;
+    padding: 0;
+    margin-bottom: 5px;
+}
+
+
+.featured-component h6 {
+    font-size: 10px;
+    margin: 0;
+    padding: 1px 0;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    text-transform: none;
+}

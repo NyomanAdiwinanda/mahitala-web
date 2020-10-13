@@ -8,7 +8,7 @@ import './Header.css';
 const theme = createMuiTheme({
     palette: {
         primary: {
-            main: '#ECF0F1',
+            main: '#FFFFFF',
         },
     },
 });

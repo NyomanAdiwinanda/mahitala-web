@@ -1,7 +1,7 @@
 .header-component {
     width: 100vw;
-    height: 12vw;
-    background-color: goldenrod;
+    height: 50px;
+    background-color: #F6C405;
     position: fixed;
     display: flex;
     justify-content: space-between;
@@ -14,8 +14,8 @@
 }
 
 img {
-    width: 8vw;
-    height: 5vh;
+    width: 35px;
+    height: 44px;
 }
 
 .search {
