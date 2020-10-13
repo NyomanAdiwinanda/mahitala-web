@@ -31,13 +31,13 @@ class Featured extends React.Component {
                         alt="First slide"
                         />
                         <Carousel.Caption>
-                        <h3>Ekspedisi Pemanjatan Tebing Tontonan</h3>
-                        <p>Wandering Season 2013</p>
-                        <ThemeProvider theme={theme}>
-                            <Button variant="contained" color="primary">
-                                <h6>Read Story</h6>
-                            </Button>
-                        </ThemeProvider>
+                            <h3>Ekspedisi Pemanjatan Tebing Tontonan</h3>
+                            <p>Wandering Season 2013</p>
+                            <ThemeProvider theme={theme}>
+                                <Button variant="contained" color="primary">
+                                    <h6>Read Story</h6>
+                                </Button>
+                            </ThemeProvider>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -47,13 +47,13 @@ class Featured extends React.Component {
                         alt="Second slide"
                         />
                         <Carousel.Caption>
-                        <h3>Ekspedisi Penelusuran Gua Tn. Aketajawe Lolobata</h3>
-                        <p>Wandering Season 2019</p>
-                        <ThemeProvider theme={theme}>
-                            <Button variant="contained" color="primary">
-                                <h6>Read Story</h6>
-                            </Button>
-                        </ThemeProvider>
+                            <h3>Ekspedisi Penelusuran Gua Tn. Aketajawe Lolobata</h3>
+                            <p>Wandering Season 2019</p>
+                            <ThemeProvider theme={theme}>
+                                <Button variant="contained" color="primary">
+                                    <h6>Read Story</h6>
+                                </Button>
+                            </ThemeProvider>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -63,13 +63,13 @@ class Featured extends React.Component {
                         alt="Third slide"
                         />
                         <Carousel.Caption>
-                        <h3>Ekspedisi Pendakian Gunung Sibela</h3>
-                        <p>Wandering Season 2015</p>
-                        <ThemeProvider theme={theme}>
-                            <Button variant="contained" color="primary">
-                                <h6>Read Story</h6>
-                            </Button>
-                        </ThemeProvider>
+                            <h3>Ekspedisi Pendakian Gunung Sibela</h3>
+                            <p>Wandering Season 2015</p>
+                            <ThemeProvider theme={theme}>
+                                <Button variant="contained" color="primary">
+                                    <h6>Read Story</h6>
+                                </Button>
+                            </ThemeProvider>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -79,13 +79,13 @@ class Featured extends React.Component {
                         alt="Fourth slide"
                         />
                         <Carousel.Caption>
-                        <h3>Ekspedisi Pengarutan Sungai Bongka</h3>
-                        <p>Wandering Season 2014</p>
-                        <ThemeProvider theme={theme}>
-                            <Button variant="contained" color="primary">
-                                <h6>Read Story</h6>
-                            </Button>
-                        </ThemeProvider>
+                            <h3>Ekspedisi Pengarutan Sungai Bongka</h3>
+                            <p>Wandering Season 2014</p>
+                            <ThemeProvider theme={theme}>
+                                <Button variant="contained" color="primary">
+                                    <h6>Read Story</h6>
+                                </Button>
+                            </ThemeProvider>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -95,13 +95,13 @@ class Featured extends React.Component {
                         alt="Fifth slide"
                         />
                         <Carousel.Caption>
-                        <h3>Ekspedisi Penyelaman Laut Labengki</h3>
-                        <p>Wandering Season 2014</p>
-                        <ThemeProvider theme={theme}>
-                            <Button variant="contained" color="primary">
-                                <h6>Read Story</h6>
-                            </Button>
-                        </ThemeProvider>
+                            <h3>Ekspedisi Penyelaman Laut Labengki</h3>
+                            <p>Wandering Season 2014</p>
+                            <ThemeProvider theme={theme}>
+                                <Button variant="contained" color="primary">
+                                    <h6>Read Story</h6>
+                                </Button>
+                            </ThemeProvider>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -111,13 +111,13 @@ class Featured extends React.Component {
                         alt="Sixth slide"
                         />
                         <Carousel.Caption>
-                        <h3>Ekspedisi Pengamatan Masyarakat Tradisional Suku Nuaulu</h3>
-                        <p>Wandering Season 2016</p>
-                        <ThemeProvider theme={theme}>
-                            <Button variant="contained" color="primary">
-                                <h6>Read Story</h6>
-                            </Button>
-                        </ThemeProvider>
+                            <h3>Ekspedisi Pengamatan Masyarakat Tradisional Suku Nuaulu</h3>
+                            <p>Wandering Season 2016</p>
+                            <ThemeProvider theme={theme}>
+                                <Button variant="contained" color="primary">
+                                    <h6>Read Story</h6>
+                                </Button>
+                            </ThemeProvider>
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
