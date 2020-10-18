@@ -1,0 +1,53 @@
+.rekamjejak-component{
+    width: 420px;
+    height: 380px;
+    background-image: url('./background-black.png');
+}
+
+
+/*Bagian peta*/
+.peta-rekamjejak{
+    height: 200px;
+}
+.peta-rekamjejak img{
+    height: 350px;
+    width: 100%;
+}
+
+
+/*Bagian judul rekam jejak*/
+.judul-rekamjejak{
+    margin-left: 15%;
+    text-align: left;
+}
+.judul-rekamjejak p {
+    font-size: 10px;
+    color: white;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+.judul-rekamjejak h3{
+    color: #F6C405;
+    margin-bottom: 5px;
+}
+
+
+/*Bagian ing rekam jejak*/
+.ing-rekamjejak{
+    color: white;
+    float:right;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    line-height: 10px;
+}
+.ing-rekamjejak p{
+    font-size: 8px;
+    list-style: none;
+}
+.list1{
+    margin-right: 10px;
+}
+.list2{
+    width: 125px;
+}
