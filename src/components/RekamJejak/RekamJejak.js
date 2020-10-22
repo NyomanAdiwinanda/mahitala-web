@@ -1,5 +1,5 @@
 import React from "react";
-import map from "./map-indo.png";
+import map from "./map-indonesia.png";
 import "./RekamJejak.css";
 
 class RekamJejak extends React.Component {

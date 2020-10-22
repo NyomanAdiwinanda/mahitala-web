@@ -14,7 +14,7 @@ function App() {
         <div className="featured-section">
           <Featured />
         </div>
-        <div className="rekam-jejak-section">
+        <div className="rekamjejak-section">
           <RekamJejak />
         </div>
       </div>
