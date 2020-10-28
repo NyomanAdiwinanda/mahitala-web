@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header/Header';
 import Featured from './components/Featured/Featured';
 import RekamJejak from './components/RekamJejak/RekamJejak';
+import EnamIng from './components/EnamIng/EnamIng';
 import './App.css';
 
 function App() {
@@ -16,6 +17,9 @@ function App() {
         </div>
         <div className="rekamjejak-section">
           <RekamJejak />
+        </div>
+        <div className="enaming-section">
+          <EnamIng />
         </div>
       </div>
     </div>

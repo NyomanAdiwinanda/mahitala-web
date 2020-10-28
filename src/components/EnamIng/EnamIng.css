@@ -1,0 +1,7 @@
+.enaming-component {
+    display: flex;
+    overflow: scroll;
+    background-color: black;
+    background-image: url(./garis.png);
+    background-size: contain;
+}
