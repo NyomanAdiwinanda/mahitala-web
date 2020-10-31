@@ -3,6 +3,7 @@ import Header from './components/Header/Header';
 import Featured from './components/Featured/Featured';
 import RekamJejak from './components/RekamJejak/RekamJejak';
 import EnamIng from './components/EnamIng/EnamIng';
+import Majalah from './components/Majalah/Majalah';
 import './App.css';
 
 function App() {
@@ -20,6 +21,9 @@ function App() {
         </div>
         <div className="enaming-section">
           <EnamIng />
+        </div>
+        <div className="majalah-section">
+          <Majalah />
         </div>
       </div>
     </div>
