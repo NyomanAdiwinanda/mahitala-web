@@ -4,9 +4,15 @@
 
 .header-section {
   position: fixed;
+  z-index: 99;
 }
 
 .main-section {
   position: relative;
   top: 50px;
+}
+
+.enaming-section {
+  height: 210px;
+  background-color: black;
 }

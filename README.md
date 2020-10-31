@@ -25,4 +25,4 @@ Untuk mengubah projek ini lakukan installasi seperti pada langkah sebelumnya
 
 Setelah prosess installasi selesai, buka folder mahitala-web dalam code-editor (VS Code / Sublime / Atom)
 
-Jika ingin menginstall <strong>library</strong> dalam projek ini, install <strong>library</strong> tersebut dalam <strong>devDependencies</strong>
+Jika ingin menginstall <strong>package</strong> dalam projek ini hanya untuk keperluan <em>local development and testing</em>, install <strong>package</strong> tersebut dalam <strong>devDependencies</strong>
