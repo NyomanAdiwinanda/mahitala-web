@@ -4,6 +4,7 @@ import Featured from './components/Featured/Featured';
 import RekamJejak from './components/RekamJejak/RekamJejak';
 import EnamIng from './components/EnamIng/EnamIng';
 import Majalah from './components/Majalah/Majalah';
+import Footer from './components/Footer/Footer';
 import './App.css';
 
 function App() {
@@ -24,6 +25,9 @@ function App() {
         </div>
         <div className="majalah-section">
           <Majalah />
+        </div>
+        <div className="footer-section">
+          <Footer />
         </div>
       </div>
     </div>
