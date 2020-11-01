@@ -30,16 +30,16 @@ h6.mahitala {
 }
 
 .whitespace {
-    height: 21px;
+    height: 10px;
 }
 
 .find-us img {
     margin-right: 5px;
     position: relative;
     right: 10px;
+    float: right;
 }
 
 .find-us img.unpar {
     width: 45px;
-    float: right;
 }
